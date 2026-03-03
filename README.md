@@ -1,7 +1,9 @@
+
 # 🛡️ BlueTeam-SOAR-Automation-Lab
 
 ![Category](https://img.shields.io/badge/Field-Cybersecurity-blue)
 ![Role](https://img.shields.io/badge/Role-Blue%20Team-blue)
+## # Work in Progress (NOT FINISHED)
 
 ## 🚀 Overview
 
