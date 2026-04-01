@@ -3,7 +3,7 @@
 ![Role](https://img.shields.io/badge/Role-Blue%20Team-blue)
 ![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-orange)
 <p align="center">
-  <img src="diagrams/network-topology-transparent.svg" alt="Lab Topology">
+  <img src="diagrams/network-topology-transparent.png" alt="Lab Topology">
 </p>
 
 ## 📌 Project Overview
